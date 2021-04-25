@@ -2,7 +2,7 @@
   "name": "setu",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mukurpuri.github.io/setu",
+  "homepage": "https://mukurpuri.github.io/setu",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
