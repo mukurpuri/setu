@@ -22,7 +22,7 @@ class Booth extends React.Component {
                 <div class="booth">
                     <div class="header">
                         <div class="setuPro">
-                            <img src="/logo.webp"/>
+                            <img src="logo.png"/>
                         </div>
                         <div class="bubbleText">
                             Welcome to Setu, Type Hello @&#60;your service&#62; to connect with your services instantly!
@@ -42,7 +42,7 @@ class Booth extends React.Component {
                         <div class="row">
                             <div class="col">
                                 <div class="service ax">
-                                    <img src="/axix-logo.png"/>
+                                    <img src="companies/axix-logo.png"/>
                                 </div>
                                 <p>
                                     Axix Bank
@@ -50,7 +50,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service hdfc">
-                                    <img src="/hdfc-logo.png"/>
+                                    <img src="companies/hdfc-logo.png"/>
                                 </div>
                                 <p>
                                     HDFC Bank
@@ -58,7 +58,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service icici">
-                                    <img src="/icici-logo.png"/>
+                                    <img src="companies/icici-logo.png"/>
                                 </div>
                                 <p>
                                     ICICI Bank
@@ -66,7 +66,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                             <div class="service hdfc">
-                                    <img src="/sbi-logo.png"/>
+                                    <img src="companies/sbi-logo.png"/>
                                 </div>
                                 <p>
                                     SBI Bank
@@ -74,7 +74,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service hsbc">
-                                    <img src="/hsbc-logo.png"/>
+                                    <img src="companies/hsbc-logo.png"/>
                                 </div>
                                 <p>
                                     HSBC Bank
@@ -84,7 +84,7 @@ class Booth extends React.Component {
                         <div class="row">
                             <div class="col">
                                 <div class="service amazon">
-                                    <img src="/amazon-logo.png"/>
+                                    <img src="companies/amazon-logo.png"/>
                                 </div>
                                 <p>
                                     Amazon.in
@@ -92,7 +92,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service ">
-                                    <img src="/flipkart-logo.png"/>
+                                    <img src="companies/flipkart-logo.png"/>
                                 </div>
                                 <p>
                                     Flikart.com
@@ -100,7 +100,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service snap">
-                                    <img src="/snapdeal-logo.png"/>
+                                    <img src="companies/snapdeal-logo.png"/>
                                 </div>
                                 <p>
                                     Snapdeal.com
@@ -108,7 +108,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service ">
-                                    <img src="/myntra-logo.png"/>
+                                    <img src="companies/myntra-logo.png"/>
                                 </div>
                                 <p>
                                     Myntra.com
@@ -116,7 +116,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service groffer">
-                                    <img src="/groffers-logo.png"/>
+                                    <img src="companies/groffers-logo.png"/>
                                 </div>
                                 <p>
                                     Groffers.com
@@ -126,7 +126,7 @@ class Booth extends React.Component {
                         <div class="row">
                             <div class="col">
                                 <div class="service cleartax">
-                                    <img src="/cleartax-logo.png"/>
+                                    <img src="companies/cleartax-logo.png"/>
                                 </div>
                                 <p>
                                     Cleartax.com
@@ -134,7 +134,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service airtel">
-                                    <img src="/airtel-logo.png"/>
+                                    <img src="companies/airtel-logo.png"/>
                                 </div>
                                 <p>
                                     Airtel
@@ -142,7 +142,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service ">
-                                    <img src="/jio-logo.png"/>
+                                    <img src="companies/jio-logo.png"/>
                                 </div>
                                 <p>
                                     Jio
@@ -150,7 +150,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service vi">
-                                    <img src="/vi-logo.png"/>
+                                    <img src="companies/vi-logo.png"/>
                                 </div>
                                 <p>
                                     Vi
@@ -158,7 +158,7 @@ class Booth extends React.Component {
                             </div>
                             <div class="col">
                                 <div class="service cred">
-                                    <img src="/cred-logo.png"/>
+                                    <img src="companies/cred-logo.png"/>
                                 </div>
                                 <p>
                                     Cred
